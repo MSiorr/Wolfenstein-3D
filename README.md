@@ -9,7 +9,7 @@ Copy of Wolfenstein 3D game
 - The whole project is written from nothing
 - This copy does not have everything the original has
 - Only the first level is available
-- You can meet two enemies (Trooper, Dog)
+- You can meet two types of enemy (Trooper, Dog)
 
 ## Installation
 
