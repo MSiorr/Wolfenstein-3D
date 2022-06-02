@@ -53,3 +53,10 @@ Copy of Wolfenstein 3D game
 - [ ] More types of enemy
 - [ ] More levels
 - [ ] Add Boss
+
+## Credits
+
+- [Wall textures](https://www.textures-resource.com/pc_computer/wolf3d/texture/1375/)
+- [Other textures](https://www.spriters-resource.com/pc_computer/wolfenstein3d/)
+- [Audio source](https://www.sounds-resource.com/pc_computer/wolfenstein3d/sound/1443/)
+- [Base game information](http://www.wolfenstein3d.co.uk)
