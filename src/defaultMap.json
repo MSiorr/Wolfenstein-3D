@@ -1,0 +1,48 @@
+{
+    "sizeX": 13,
+    "sizeY": 13,
+    "objectData": [
+        {
+            "x": 1,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 2,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 5,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 3,
+            "z": 1,
+            "type": "enemy",
+            "look": "DOWN",
+            "texture": "enemy_stand_1"
+        },
+        {
+            "x": 3,
+            "z": 11,
+            "type": "player"
+        }
+    ]
+}

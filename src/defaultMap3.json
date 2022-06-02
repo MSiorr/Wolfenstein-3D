@@ -1,0 +1,129 @@
+{
+    "sizeX": 9,
+    "sizeY": 9,
+    "objectData": [
+        {
+            "x": 3,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1",
+            "goTo": {
+                "x": 5,
+                "z": 2
+            }
+        },
+        {
+            "x": 6,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 2,
+            "z": 6,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN"
+        },
+        {
+            "x": 4,
+            "z": 2,
+            "type": "pickable",
+            "texture": "pickable_extra_life",
+            "name": "EXTRA_LIFE"
+        },
+        {
+            "x": 5,
+            "z": 6,
+            "type": "player",
+            "texture": "player_1",
+            "look": "DOWN"
+        },
+        {
+            "x": 6,
+            "z": 2,
+            "type": "pickable",
+            "texture": "pickable_extra_life",
+            "name": "EXTRA_LIFE"
+        },
+        {
+            "x": 8,
+            "z": 6,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN"
+        }
+    ]
+}

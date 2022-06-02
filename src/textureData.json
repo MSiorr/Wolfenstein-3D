@@ -1,0 +1,956 @@
+{
+    "WALL": {
+        "sizeX": 8,
+        "sizeY": 16,
+        "pos": {
+            "wall_stone_1": {
+                "x": 0,
+                "y": 0
+            },
+            "wall_stone_2": {
+                "x": 2,
+                "y": 0
+            },
+            "wall_stone_flag": {
+                "x": 4,
+                "y": 0
+            },
+            "wall_stone_picture": {
+                "x": 0,
+                "y": 1
+            },
+            "wall_blueStone_emptyPrison": {
+                "x": 2,
+                "y": 1
+            },
+            "wall_stone_eagle": {
+                "x": 4,
+                "y": 1
+            },
+            "wall_blueStone_skeletonPrison": {
+                "x": 0,
+                "y": 2
+            },
+            "wall_blueStone_1": {
+                "x": 2,
+                "y": 2
+            },
+            "wall_blueStone_2": {
+                "x": 4,
+                "y": 2
+            },
+            "wall_wood_eagle": {
+                "x": 0,
+                "y": 3
+            },
+            "wall_wood_picture": {
+                "x": 2,
+                "y": 3
+            },
+            "wall_wood": {
+                "x": 4,
+                "y": 3
+            },
+            "wall_wood_ornament": {
+                "x": 0,
+                "y": 4
+            },
+            "wall_blueSteel_info": {
+                "x": 2,
+                "y": 4
+            },
+            "wall_blueSteel": {
+                "x": 4,
+                "y": 4
+            },
+            "wall_outside": {
+                "x": 0,
+                "y": 5
+            },
+            "wall_redBrick": {
+                "x": 2,
+                "y": 5
+            },
+            "wall_redBrick_ornament": {
+                "x": 4,
+                "y": 5
+            },
+            "wall_redBrick_flag": {
+                "x": 0,
+                "y": 6
+            },
+            "wall_plagueStone": {
+                "x": 2,
+                "y": 6
+            },
+            "wall_plagueStone_blood": {
+                "x": 4,
+                "y": 6
+            },
+            "wall_elevatorClear_on": {
+                "x": 0,
+                "y": 7
+            },
+            "door_steel": {
+                "x": 2,
+                "y": 7
+            },
+            "wall_elevatorClear_off": {
+                "x": 4,
+                "y": 7
+            },
+            "wall_mossyStone_1": {
+                "x": 0,
+                "y": 8
+            },
+            "wall_mossyStone_2": {
+                "x": 2,
+                "y": 8
+            },
+            "wall_stone_3": {
+                "x": 4,
+                "y": 8
+            },
+            "wall_stone_info": {
+                "x": 0,
+                "y": 9
+            },
+            "wall_sand": {
+                "x": 2,
+                "y": 9
+            },
+            "wall_sand_blood_1": {
+                "x": 4,
+                "y": 9
+            },
+            "wall_sand_blood_2": {
+                "x": 0,
+                "y": 10
+            },
+            "wall_sand_blood_3": {
+                "x": 2,
+                "y": 10
+            },
+            "wall_white_picture": {
+                "x": 4,
+                "y": 10
+            },
+            "wall_blueStone_skull": {
+                "x": 0,
+                "y": 11
+            },
+            "wall_whiteBrick": {
+                "x": 2,
+                "y": 11
+            },
+            "wall_blueStone_ornament": {
+                "x": 4,
+                "y": 11
+            },
+            "wall_whiteBrick_miss": {
+                "x": 0,
+                "y": 12
+            },
+            "wall_multiBrick": {
+                "x": 2,
+                "y": 12
+            },
+            "wall_whiteBrick_crack": {
+                "x": 4,
+                "y": 12
+            },
+            "wall_blueStone_blank": {
+                "x": 0,
+                "y": 13
+            },
+            "wall_blueStone_info": {
+                "x": 2,
+                "y": 13
+            },
+            "wall_tiles_1": {
+                "x": 4,
+                "y": 13
+            },
+            "wall_whiteBrick_map": {
+                "x": 6,
+                "y": 0
+            },
+            "wall_tiles_2": {
+                "x": 6,
+                "y": 1
+            },
+            "wall_whiteBrick_picture": {
+                "x": 6,
+                "y": 2
+            },
+            "door_steel_button": {
+                "x": 6,
+                "y": 3
+            },
+            "wall_elevatorPins_on": {
+                "x": 6,
+                "y": 4
+            },
+            "wall_orangeStone_1": {
+                "x": 6,
+                "y": 5
+            },
+            "wall_tiles_ornament": {
+                "x": 6,
+                "y": 6
+            },
+            "door_front_1": {
+                "x": 6,
+                "y": 7
+            },
+            "door_front_2": {
+                "x": 6,
+                "y": 8
+            },
+            "wall_orangeStone_2": {
+                "x": 6,
+                "y": 9
+            },
+            "wall_orangeStone_blank": {
+                "x": 6,
+                "y": 10
+            },
+            "wall_door": {
+                "x": 6,
+                "y": 11
+            },
+            "wall_elevatorPins_off": {
+                "x": 6,
+                "y": 12
+            },
+            "door_side_1": {
+                "x": 6,
+                "y": 13
+            },
+            "door_side_2": {
+                "x": 0,
+                "y": 14
+            },
+            "wall_elevatorClear_side": {
+                "x": 2,
+                "y": 14
+            },
+            "wall_elevatorPins_side": {
+                "x": 4,
+                "y": 14
+            }
+        }
+    },
+    "ENEMY": {
+        "sizeX": 8,
+        "sizeY": 8,
+        "pos": {
+            "enemy_stand_1": {
+                "x": 0,
+                "y": 0
+            },
+            "enemy_run_1_1": {
+                "x": 0,
+                "y": 1
+            },
+            "enemy_run_2_1": {
+                "x": 0,
+                "y": 2
+            },
+            "enemy_run_3_1": {
+                "x": 0,
+                "y": 3
+            },
+            "enemy_run_4_1": {
+                "x": 0,
+                "y": 4
+            },
+            "enemy_stand_2": {
+                "x": 1,
+                "y": 0
+            },
+            "enemy_run_1_2": {
+                "x": 1,
+                "y": 1
+            },
+            "enemy_run_2_2": {
+                "x": 1,
+                "y": 2
+            },
+            "enemy_run_3_2": {
+                "x": 1,
+                "y": 3
+            },
+            "enemy_run_4_2": {
+                "x": 1,
+                "y": 4
+            },
+            "enemy_stand_3": {
+                "x": 2,
+                "y": 0
+            },
+            "enemy_run_1_3": {
+                "x": 2,
+                "y": 1
+            },
+            "enemy_run_2_3": {
+                "x": 2,
+                "y": 2
+            },
+            "enemy_run_3_3": {
+                "x": 2,
+                "y": 3
+            },
+            "enemy_run_4_3": {
+                "x": 2,
+                "y": 4
+            },
+            "enemy_stand_4": {
+                "x": 3,
+                "y": 0
+            },
+            "enemy_run_1_4": {
+                "x": 3,
+                "y": 1
+            },
+            "enemy_run_2_4": {
+                "x": 3,
+                "y": 2
+            },
+            "enemy_run_3_4": {
+                "x": 3,
+                "y": 3
+            },
+            "enemy_run_4_4": {
+                "x": 3,
+                "y": 4
+            },
+            "enemy_stand_5": {
+                "x": 4,
+                "y": 0
+            },
+            "enemy_run_1_5": {
+                "x": 4,
+                "y": 1
+            },
+            "enemy_run_2_5": {
+                "x": 4,
+                "y": 2
+            },
+            "enemy_run_3_5": {
+                "x": 4,
+                "y": 3
+            },
+            "enemy_run_4_5": {
+                "x": 4,
+                "y": 4
+            },
+            "enemy_stand_6": {
+                "x": 5,
+                "y": 0
+            },
+            "enemy_run_1_6": {
+                "x": 5,
+                "y": 1
+            },
+            "enemy_run_2_6": {
+                "x": 5,
+                "y": 2
+            },
+            "enemy_run_3_6": {
+                "x": 5,
+                "y": 3
+            },
+            "enemy_run_4_6": {
+                "x": 5,
+                "y": 4
+            },
+            "enemy_stand_7": {
+                "x": 6,
+                "y": 0
+            },
+            "enemy_run_1_7": {
+                "x": 6,
+                "y": 1
+            },
+            "enemy_run_2_7": {
+                "x": 6,
+                "y": 2
+            },
+            "enemy_run_3_7": {
+                "x": 6,
+                "y": 3
+            },
+            "enemy_run_4_7": {
+                "x": 6,
+                "y": 4
+            },
+            "enemy_stand_8": {
+                "x": 7,
+                "y": 0
+            },
+            "enemy_run_1_8": {
+                "x": 7,
+                "y": 1
+            },
+            "enemy_run_2_8": {
+                "x": 7,
+                "y": 2
+            },
+            "enemy_run_3_8": {
+                "x": 7,
+                "y": 3
+            },
+            "enemy_run_4_8": {
+                "x": 7,
+                "y": 4
+            },
+            "enemy_hit": {
+                "x": 7,
+                "y": 5
+            },
+            "enemy_pickup_weapon": {
+                "x": 0,
+                "y": 6
+            },
+            "enemy_shoot_1": {
+                "x": 1,
+                "y": 6
+            },
+            "enemy_shoot_2": {
+                "x": 2,
+                "y": 6
+            },
+            "enemy_dead_1": {
+                "x": 0,
+                "y": 5
+            },
+            "enemy_dead_2": {
+                "x": 1,
+                "y": 5
+            },
+            "enemy_dead_3": {
+                "x": 2,
+                "y": 5
+            },
+            "enemy_dead_4": {
+                "x": 3,
+                "y": 5
+            },
+            "enemy_dead_5": {
+                "x": 4,
+                "y": 5
+            }
+        }
+    },
+    "DOG": {
+        "sizeX": 8,
+        "sizeY": 8,
+        "pos": {
+            "enemy_stand_1": {
+                "x": 0,
+                "y": 2
+            },
+            "enemy_run_1_1": {
+                "x": 0,
+                "y": 0
+            },
+            "enemy_run_2_1": {
+                "x": 0,
+                "y": 1
+            },
+            "enemy_run_3_1": {
+                "x": 0,
+                "y": 2
+            },
+            "enemy_run_4_1": {
+                "x": 0,
+                "y": 3
+            },
+            "enemy_stand_2": {
+                "x": 1,
+                "y": 2
+            },
+            "enemy_run_1_2": {
+                "x": 1,
+                "y": 0
+            },
+            "enemy_run_2_2": {
+                "x": 1,
+                "y": 1
+            },
+            "enemy_run_3_2": {
+                "x": 1,
+                "y": 2
+            },
+            "enemy_run_4_2": {
+                "x": 1,
+                "y": 3
+            },
+            "enemy_stand_3": {
+                "x": 2,
+                "y": 2
+            },
+            "enemy_run_1_3": {
+                "x": 2,
+                "y": 0
+            },
+            "enemy_run_2_3": {
+                "x": 2,
+                "y": 1
+            },
+            "enemy_run_3_3": {
+                "x": 2,
+                "y": 2
+            },
+            "enemy_run_4_3": {
+                "x": 2,
+                "y": 3
+            },
+            "enemy_stand_4": {
+                "x": 3,
+                "y": 2
+            },
+            "enemy_run_1_4": {
+                "x": 3,
+                "y": 0
+            },
+            "enemy_run_2_4": {
+                "x": 3,
+                "y": 1
+            },
+            "enemy_run_3_4": {
+                "x": 3,
+                "y": 2
+            },
+            "enemy_run_4_4": {
+                "x": 3,
+                "y": 3
+            },
+            "enemy_stand_5": {
+                "x": 4,
+                "y": 2
+            },
+            "enemy_run_1_5": {
+                "x": 4,
+                "y": 0
+            },
+            "enemy_run_2_5": {
+                "x": 4,
+                "y": 1
+            },
+            "enemy_run_3_5": {
+                "x": 4,
+                "y": 2
+            },
+            "enemy_run_4_5": {
+                "x": 4,
+                "y": 3
+            },
+            "enemy_stand_6": {
+                "x": 5,
+                "y": 2
+            },
+            "enemy_run_1_6": {
+                "x": 5,
+                "y": 0
+            },
+            "enemy_run_2_6": {
+                "x": 5,
+                "y": 1
+            },
+            "enemy_run_3_6": {
+                "x": 5,
+                "y": 2
+            },
+            "enemy_run_4_6": {
+                "x": 5,
+                "y": 3
+            },
+            "enemy_stand_7": {
+                "x": 6,
+                "y": 2
+            },
+            "enemy_run_1_7": {
+                "x": 6,
+                "y": 0
+            },
+            "enemy_run_2_7": {
+                "x": 6,
+                "y": 1
+            },
+            "enemy_run_3_7": {
+                "x": 6,
+                "y": 2
+            },
+            "enemy_run_4_7": {
+                "x": 6,
+                "y": 3
+            },
+            "enemy_stand_8": {
+                "x": 7,
+                "y": 2
+            },
+            "enemy_run_1_8": {
+                "x": 7,
+                "y": 0
+            },
+            "enemy_run_2_8": {
+                "x": 7,
+                "y": 1
+            },
+            "enemy_run_3_8": {
+                "x": 7,
+                "y": 2
+            },
+            "enemy_run_4_8": {
+                "x": 7,
+                "y": 3
+            },
+            "enemy_hit": {
+                "x": 7,
+                "y": 4
+            },
+            "enemy_pickup_weapon": {
+                "x": 0,
+                "y": 5
+            },
+            "enemy_shoot_1": {
+                "x": 1,
+                "y": 5
+            },
+            "enemy_shoot_2": {
+                "x": 2,
+                "y": 5
+            },
+            "enemy_dead_1": {
+                "x": 0,
+                "y": 4
+            },
+            "enemy_dead_2": {
+                "x": 1,
+                "y": 4
+            },
+            "enemy_dead_3": {
+                "x": 2,
+                "y": 4
+            },
+            "enemy_dead_4": {
+                "x": 3,
+                "y": 4
+            },
+            "enemy_dead_5": {
+                "x": 3,
+                "y": 4
+            }
+        }
+    },
+    "WEAPON": {
+        "sizeX": 8,
+        "sizeY": 4,
+        "pos": {
+            "weapon_default_1": {
+                "x": 0,
+                "y": 0
+            },
+            "weapon_pick_1": {
+                "x": 1,
+                "y": 0
+            },
+            "weapon_shoot_1_1": {
+                "x": 2,
+                "y": 0
+            },
+            "weapon_shoot_2_1": {
+                "x": 3,
+                "y": 0
+            },
+            "weapon_hide_1": {
+                "x": 4,
+                "y": 0
+            },
+            "weapon_default_2": {
+                "x": 0,
+                "y": 1
+            },
+            "weapon_pick_2": {
+                "x": 1,
+                "y": 1
+            },
+            "weapon_shoot_1_2": {
+                "x": 2,
+                "y": 1
+            },
+            "weapon_shoot_2_2": {
+                "x": 3,
+                "y": 1
+            },
+            "weapon_hide_2": {
+                "x": 4,
+                "y": 1
+            },
+            "weapon_default_3": {
+                "x": 0,
+                "y": 2
+            },
+            "weapon_pick_3": {
+                "x": 1,
+                "y": 2
+            },
+            "weapon_shoot_1_3": {
+                "x": 2,
+                "y": 2
+            },
+            "weapon_shoot_2_3": {
+                "x": 3,
+                "y": 2
+            },
+            "weapon_hide_3": {
+                "x": 4,
+                "y": 2
+            },
+            "weapon_default_4": {
+                "x": 0,
+                "y": 3
+            },
+            "weapon_pick_4": {
+                "x": 1,
+                "y": 3
+            },
+            "weapon_shoot_1_4": {
+                "x": 2,
+                "y": 3
+            },
+            "weapon_shoot_2_4": {
+                "x": 3,
+                "y": 3
+            },
+            "weapon_hide_4": {
+                "x": 4,
+                "y": 3
+            }
+        }
+    },
+    "OBJECT": {
+        "sizeX": 8,
+        "sizeY": 8,
+        "pos": {
+            "pickable_clip": {
+                "x": 3,
+                "y": 5
+            },
+            "pickable_dog_food": {
+                "x": 3,
+                "y": 1
+            },
+            "pickable_blood": {
+                "x": 5,
+                "y": 0
+            },
+            "pickable_cross": {
+                "x": 1,
+                "y": 6
+            },
+            "pickable_chalice": {
+                "x": 2,
+                "y": 6
+            },
+            "pickable_chest": {
+                "x": 3,
+                "y": 6
+            },
+            "pickable_crown": {
+                "x": 4,
+                "y": 6
+            },
+            "pickable_chicken_meal": {
+                "x": 1,
+                "y": 5
+            },
+            "pickable_extra_life": {
+                "x": 0,
+                "y": 7
+            },
+            "pickable_bloody_skeleton": {
+                "x": 1,
+                "y": 7
+            },
+            "pickable_key_silver": {
+                "x": 3,
+                "y": 4
+            },
+            "pickable_key_gold": {
+                "x": 2,
+                "y": 4
+            },
+            "pickable_first_aid_kit": {
+                "x": 2,
+                "y": 5
+            },
+            "pickable_machinegun": {
+                "x": 4,
+                "y": 5
+            },
+            "pickable_chaingun": {
+                "x": 0,
+                "y": 6
+            },
+            "furniture_stain": {
+                "x": 2,
+                "y": 0
+            },
+            "furniture_greenBarrel": {
+                "x": 3,
+                "y": 0
+            },
+            "furniture_chairsTable": {
+                "x": 4,
+                "y": 0
+            },
+            "furniture_flag": {
+                "x": 6,
+                "y": 0
+            },
+            "furniture_greenStandingLamp": {
+                "x": 0,
+                "y": 1
+            },
+            "furniture_hangingCandlestick": {
+                "x": 1,
+                "y": 1
+            },
+            "furniture_hangingSkeleton": {
+                "x": 2,
+                "y": 1
+            },
+            "furniture_pillar": {
+                "x": 4,
+                "y": 1
+            },
+            "furniture_boneRemains1": {
+                "x": 5,
+                "y": 1
+            },
+            "furniture_kitchenUtensilsBig": {
+                "x": 6,
+                "y": 1
+            },
+            "furniture_oven": {
+                "x": 7,
+                "y": 1
+            },
+            "furniture_potTree": {
+                "x": 0,
+                "y": 2
+            },
+            "furniture_lyingSkeleton": {
+                "x": 1,
+                "y": 2
+            },
+            "furniture_washbasin": {
+                "x": 2,
+                "y": 2
+            },
+            "furniture_witheredPotTree": {
+                "x": 3,
+                "y": 2
+            },
+            "furniture_urn": {
+                "x": 4,
+                "y": 2
+            },
+            "furniture_boneRemains2": {
+                "x": 5,
+                "y": 2
+            },
+            "furniture_boneRemains3": {
+                "x": 6,
+                "y": 2
+            },
+            "furniture_creepers": {
+                "x": 7,
+                "y": 2
+            },
+            "furniture_table": {
+                "x": 0,
+                "y": 3
+            },
+            "furniture_hangingLamp": {
+                "x": 1,
+                "y": 3
+            },
+            "furniture_kitchenUtensilsSmall": {
+                "x": 2,
+                "y": 3
+            },
+            "furniture_guardArmor": {
+                "x": 3,
+                "y": 3
+            },
+            "furniture_emptyCage": {
+                "x": 4,
+                "y": 3
+            },
+            "furniture_spears": {
+                "x": 5,
+                "y": 3
+            },
+            "furniture_skeletonCage": {
+                "x": 0,
+                "y": 4
+            },
+            "furniture_skullsPile": {
+                "x": 1,
+                "y": 4
+            },
+            "furniture_bed": {
+                "x": 4,
+                "y": 4
+            },
+            "furniture_pot": {
+                "x": 0,
+                "y": 5
+            },
+            "furniture_barrel": {
+                "x": 2,
+                "y": 7
+            },
+            "furniture_fullWell": {
+                "x": 3,
+                "y": 7
+            },
+            "furniture_emptyWell": {
+                "x": 4,
+                "y": 7
+            }
+        }
+    },
+    "PLAYER": {
+        "sizeX": 4,
+        "sizeY": 2,
+        "pos": {
+            "player_1": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "MAPCREATOR": {
+        "sizeX": 2,
+        "sizeY": 2,
+        "pos": {
+            "enemy_target": {
+                "x": 0,
+                "y": 0
+            },
+            "wall_target": {
+                "x": 1,
+                "y": 0
+            },
+            "end_game": {
+                "x": 0,
+                "y": 1
+            }
+        }
+    }
+}

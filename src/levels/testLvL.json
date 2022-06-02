@@ -1,0 +1,61 @@
+{
+    "sizeX": 10,
+    "sizeY": 10,
+    "objectData": [
+        {
+            "x": 4,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 4,
+            "type": "door",
+            "texture": "door_steel_button"
+        },
+        {
+            "x": 5,
+            "z": 3,
+            "type": "door",
+            "texture": "door_steel"
+        },
+        {
+            "x": 5,
+            "z": 4,
+            "type": "player",
+            "texture": "player_1",
+            "look": "DOWN"
+        },
+        {
+            "x": 5,
+            "z": 5,
+            "type": "door",
+            "texture": "door_steel"
+        },
+        {
+            "x": 6,
+            "z": 4,
+            "type": "door",
+            "texture": "door_steel_button"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "ENEMY_STAND": {
+        "textures": [
+            "enemy_stand_angle"
+        ],
+        "offset": 200
+    },
+    "ENEMY_RUN": {
+        "textures": [
+            "enemy_run_1_angle",
+            "enemy_run_2_angle",
+            "enemy_run_3_angle",
+            "enemy_run_4_angle"
+        ],
+        "offset": 200
+    },
+    "ENEMY_DEAD": {
+        "textures": [
+            "enemy_dead_1",
+            "enemy_dead_2",
+            "enemy_dead_3",
+            "enemy_dead_4",
+            "enemy_dead_5"
+        ],
+        "offset": 200
+    },
+    "ENEMY_HIT": {
+        "textures": [
+            "enemy_hit"
+        ],
+        "offset": 200
+    },
+    "ENEMY_SHOOT": {
+        "textures": [
+            "enemy_pickup_weapon",
+            "enemy_shoot_1",
+            "enemy_shoot_2",
+            "enemy_pickup_weapon"
+        ],
+        "offset": 200
+    },
+    "WEAPON_DEFAULT": {
+        "textures": [
+            "weapon_default_id"
+        ],
+        "offset": 1000
+    },
+    "WEAPON_PICK": {
+        "textures": [
+            "weapon_pick_id"
+        ],
+        "offset": 200
+    },
+    "WEAPON_SHOOT": {
+        "textures": [
+            "weapon_shoot_1_id",
+            "weapon_shoot_2_id"
+        ],
+        "offset": 200
+    },
+    "WEAPON_HIDE": {
+        "textures": [
+            "weapon_hide_id"
+        ],
+        "offset": 200
+    }
+}

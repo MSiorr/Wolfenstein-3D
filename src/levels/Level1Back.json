@@ -1,0 +1,5243 @@
+{
+    "sizeX": 63,
+    "sizeY": 57,
+    "objectData": [
+        {
+            "x": 1,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 14,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 21,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 1,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 27,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_picture"
+        },
+        {
+            "x": 1,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 1,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 2,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 2,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 2,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 14,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 21,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 5,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_picture"
+        },
+        {
+            "x": 5,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 6,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 8,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 6,
+            "z": 10,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 11,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 12,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 6,
+            "z": 14,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 8,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 8,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 9,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 9,
+            "z": 21,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 9,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 10,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 11,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 11,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 11,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 11,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_picture",
+            "goTo": {
+                "x": 11,
+                "z": 5
+            }
+        },
+        {
+            "x": 11,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_picture"
+        },
+        {
+            "x": 11,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 11,
+            "z": 46,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 6,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 12,
+            "z": 46,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 13,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 13,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 13,
+            "z": 21,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 13,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 48,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 14,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 14,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 14,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 14,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 14,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 14,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 14,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_stone_1",
+            "goTo": {
+                "x": 14,
+                "z": 49
+            }
+        },
+        {
+            "x": 14,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 15,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 8,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 16,
+            "z": 10,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 12,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 16,
+            "z": 14,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 16,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 27,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 16,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 16,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 48,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 16,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 17,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 17,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 17,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 17,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 17,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 6,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 8,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_stone_1",
+            "goTo": {
+                "x": 16,
+                "z": 44
+            }
+        },
+        {
+            "x": 18,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 46,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 18,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 19,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 19,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 19,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 19,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1",
+            "goTo": {
+                "x": 19,
+                "z": 45
+            }
+        },
+        {
+            "x": 19,
+            "z": 46,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 20,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 20,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 20,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 20,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 20,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 21,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 21,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 21,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 21,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 21,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 22,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 22,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 22,
+            "z": 8,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 22,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 22,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 22,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 22,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 23,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 23,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 23,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 23,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 23,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 23,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 10,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 11,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 12,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 24,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 25,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 25,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 25,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 25,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 25,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 25,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 26,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 26,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 26,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 26,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 27,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 27,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 27,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 27,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 28,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 28,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 28,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 28,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 28,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 28,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 28,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 28,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 28,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 28,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 28,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 46,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 48,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 51,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 52,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 54,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 55,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 56,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 28,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 29,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 29,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 6,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_wood_picture"
+        },
+        {
+            "x": 29,
+            "z": 8,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 29,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 29,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_picture"
+        },
+        {
+            "x": 29,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 29,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 29,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 29,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_emptyPrison"
+        },
+        {
+            "x": 30,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 30,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 30,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 30,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 30,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 30,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 30,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 30,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 30,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 30,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 31,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_wood_eagle",
+            "goTo": {
+                "x": 29,
+                "z": 16
+            }
+        },
+        {
+            "x": 31,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 31,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 31,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 31,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 31,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 31,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 31,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 32,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 32,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 32,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 32,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 32,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 32,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 32,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 32,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 32,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 32,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 32,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 32,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 32,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 32,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_emptyPrison"
+        },
+        {
+            "x": 33,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 10,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 11,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 12,
+            "type": "wall",
+            "texture": "wall_wood_picture"
+        },
+        {
+            "x": 33,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 14,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 33,
+            "z": 21,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 33,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 48,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 52,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 33,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 34,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 34,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 34,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 34,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 34,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 34,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 35,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 35,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_skeletonPrison"
+        },
+        {
+            "x": 36,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 36,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 36,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 36,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 36,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 36,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 10,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 11,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 12,
+            "type": "wall",
+            "texture": "wall_wood_picture"
+        },
+        {
+            "x": 37,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 14,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 18,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 19,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 20,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 37,
+            "z": 21,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 37,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 42,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 43,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 48,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 52,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 37,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 38,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 38,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 38,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 38,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 38,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 38,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 38,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 38,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 38,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 38,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_emptyPrison"
+        },
+        {
+            "x": 39,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 39,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 39,
+            "z": 15,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 39,
+            "z": 16,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 39,
+            "z": 17,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 39,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_flag"
+        },
+        {
+            "x": 39,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 39,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 39,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 39,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 39,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 40,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 40,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 40,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 40,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_picture"
+        },
+        {
+            "x": 40,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 40,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 40,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 40,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 41,
+            "z": 1,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 41,
+            "z": 2,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 41,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 41,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 41,
+            "z": 6,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 41,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_wood_picture"
+        },
+        {
+            "x": 41,
+            "z": 8,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 41,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 41,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 41,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 41,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 41,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 41,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 41,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_emptyPrison"
+        },
+        {
+            "x": 42,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 42,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 42,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 42,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 42,
+            "z": 44,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 45,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 46,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 47,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 48,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 49,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 50,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 51,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 52,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 53,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 54,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 55,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 56,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 42,
+            "z": 57,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 43,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 43,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 43,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 43,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 43,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 43,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_stone_eagle"
+        },
+        {
+            "x": 43,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 43,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 44,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 44,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 44,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 44,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 44,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 44,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 44,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 44,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 44,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 45,
+            "z": 3,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 45,
+            "z": 4,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 45,
+            "z": 5,
+            "type": "wall",
+            "texture": "wall_wood_eagle"
+        },
+        {
+            "x": 45,
+            "z": 6,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 45,
+            "z": 7,
+            "type": "wall",
+            "texture": "wall_wood"
+        },
+        {
+            "x": 45,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 45,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 45,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 46,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 46,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 46,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 47,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 48,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 48,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 49,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 49,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 34,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 50,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 51,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 51,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 51,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 51,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 51,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 51,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 52,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 52,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 52,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 52,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 52,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 52,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 53,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 53,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 53,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 53,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 54,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 55,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 55,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 55,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 55,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 56,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 57,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 57,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 57,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 57,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 58,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 59,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 59,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 59,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 59,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 59,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 60,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 60,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 60,
+            "z": 35,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 60,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 60,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 60,
+            "z": 41,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 33,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 36,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 37,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 38,
+            "type": "wall",
+            "texture": "wall_blueStone_emptyPrison"
+        },
+        {
+            "x": 61,
+            "z": 39,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 61,
+            "z": 40,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 62,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 62,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 22,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 23,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 24,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 25,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 26,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 27,
+            "type": "wall",
+            "texture": "wall_blueStone_skeletonPrison"
+        },
+        {
+            "x": 63,
+            "z": 28,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 29,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 30,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 31,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 63,
+            "z": 32,
+            "type": "wall",
+            "texture": "wall_blueStone_1"
+        },
+        {
+            "x": 3,
+            "z": 17,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 6,
+            "z": 27,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 11,
+            "z": 15,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 11,
+            "z": 22,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 11,
+            "z": 32,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 12,
+            "z": 45,
+            "type": "door",
+            "texture": "door_steel"
+        },
+        {
+            "x": 16,
+            "z": 11,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 18,
+            "z": 41,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 25,
+            "z": 41,
+            "type": "door",
+            "texture": "door_steel"
+        },
+        {
+            "x": 29,
+            "z": 5,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 33,
+            "z": 46,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 33,
+            "z": 51,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 35,
+            "z": 9,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 35,
+            "z": 22,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 35,
+            "z": 32,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 35,
+            "z": 44,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 37,
+            "z": 46,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 37,
+            "z": 51,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 41,
+            "z": 5,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 44,
+            "z": 27,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 51,
+            "z": 38,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 54,
+            "z": 27,
+            "type": "door",
+            "texture": "door_front_1"
+        },
+        {
+            "x": 3,
+            "z": 14,
+            "type": "pickable",
+            "texture": "pickable_first_aid_kit",
+            "name": "FIRST_AID_KIT"
+        },
+        {
+            "x": 3,
+            "z": 15,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 3,
+            "z": 19,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 3,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 3,
+            "z": 32,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 3,
+            "z": 38,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 3,
+            "z": 39,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 4
+        },
+        {
+            "x": 4,
+            "z": 14,
+            "type": "furniture",
+            "texture": "furniture_barrel"
+        },
+        {
+            "x": 6,
+            "z": 35,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 4
+        },
+        {
+            "x": 6,
+            "z": 37,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 7,
+            "z": 3,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 7,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 7,
+            "z": 5,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 7,
+            "z": 6,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 7,
+            "z": 11,
+            "type": "furniture",
+            "texture": "furniture_flag"
+        },
+        {
+            "x": 7,
+            "z": 13,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 7,
+            "z": 14,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 7,
+            "z": 20,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 7,
+            "z": 23,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "RIGHT",
+            "difficulty": 4
+        },
+        {
+            "x": 7,
+            "z": 36,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 7,
+            "z": 41,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 8,
+            "z": 3,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 8,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 8,
+            "z": 5,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 8,
+            "z": 6,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 8,
+            "z": 8,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 8,
+            "z": 9,
+            "type": "furniture",
+            "texture": "furniture_greenStandingLamp"
+        },
+        {
+            "x": 8,
+            "z": 13,
+            "type": "furniture",
+            "texture": "furniture_greenStandingLamp"
+        },
+        {
+            "x": 8,
+            "z": 14,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 8,
+            "z": 19,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 8,
+            "z": 20,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT"
+        },
+        {
+            "x": 8,
+            "z": 21,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 8,
+            "z": 24,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 8,
+            "z": 30,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 8,
+            "z": 35,
+            "type": "furniture",
+            "texture": "furniture_greenBarrel"
+        },
+        {
+            "x": 9,
+            "z": 3,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 9,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 9,
+            "z": 5,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 9,
+            "z": 6,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 9,
+            "z": 8,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 9,
+            "z": 10,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "RIGHT"
+        },
+        {
+            "x": 9,
+            "z": 13,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "RIGHT",
+            "difficulty": 4
+        },
+        {
+            "x": 9,
+            "z": 25,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 9,
+            "z": 29,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 10,
+            "z": 3,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 10,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 10,
+            "z": 5,
+            "type": "pickable",
+            "texture": "pickable_chest",
+            "name": "CHEST"
+        },
+        {
+            "x": 10,
+            "z": 8,
+            "type": "furniture",
+            "texture": "furniture_potTree"
+        },
+        {
+            "x": 11,
+            "z": 11,
+            "type": "furniture",
+            "texture": "furniture_chairsTable"
+        },
+        {
+            "x": 11,
+            "z": 17,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 11,
+            "z": 20,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 11,
+            "z": 21,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 4
+        },
+        {
+            "x": 11,
+            "z": 27,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 3,
+                "z": 41
+            }
+        },
+        {
+            "x": 11,
+            "z": 36,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 11,
+            "z": 41,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 3,
+                "z": 27
+            },
+            "difficulty": 3
+        },
+        {
+            "x": 11,
+            "z": 45,
+            "type": "end",
+            "texture": "end_game"
+        },
+        {
+            "x": 12,
+            "z": 8,
+            "type": "furniture",
+            "texture": "furniture_potTree"
+        },
+        {
+            "x": 12,
+            "z": 9,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 13,
+            "z": 8,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 13,
+            "z": 11,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 3
+        },
+        {
+            "x": 13,
+            "z": 25,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 13,
+            "z": 29,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 14,
+            "z": 9,
+            "type": "furniture",
+            "texture": "furniture_greenStandingLamp"
+        },
+        {
+            "x": 14,
+            "z": 13,
+            "type": "furniture",
+            "texture": "furniture_greenStandingLamp"
+        },
+        {
+            "x": 14,
+            "z": 24,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 14,
+            "z": 30,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 14,
+            "z": 31,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 4
+        },
+        {
+            "x": 15,
+            "z": 9,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 4
+        },
+        {
+            "x": 15,
+            "z": 14,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 4
+        },
+        {
+            "x": 15,
+            "z": 41,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 15,
+            "z": 49,
+            "type": "pickable",
+            "texture": "pickable_extra_life",
+            "name": "EXTRA_LIFE"
+        },
+        {
+            "x": 20,
+            "z": 5,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 20,
+            "z": 10,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP"
+        },
+        {
+            "x": 20,
+            "z": 11,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 20,
+            "z": 44,
+            "type": "pickable",
+            "texture": "pickable_first_aid_kit",
+            "name": "FIRST_AID_KIT"
+        },
+        {
+            "x": 22,
+            "z": 12,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 3
+        },
+        {
+            "x": 22,
+            "z": 41,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT"
+        },
+        {
+            "x": 24,
+            "z": 40,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT",
+            "difficulty": 4
+        },
+        {
+            "x": 24,
+            "z": 42,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT",
+            "difficulty": 3
+        },
+        {
+            "x": 25,
+            "z": 5,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 26,
+            "z": 41,
+            "type": "end",
+            "texture": "end_game"
+        },
+        {
+            "x": 28,
+            "z": 24,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 28,
+            "z": 27,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 62,
+                "z": 27
+            }
+        },
+        {
+            "x": 28,
+            "z": 30,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 29,
+            "z": 17,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 29,
+            "z": 18,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 29,
+            "z": 19,
+            "type": "pickable",
+            "texture": "pickable_machinegun",
+            "name": "MACHINEGUN"
+        },
+        {
+            "x": 29,
+            "z": 45,
+            "type": "furniture",
+            "texture": "furniture_skullsPile"
+        },
+        {
+            "x": 29,
+            "z": 56,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "RIGHT",
+            "difficulty": 4
+        },
+        {
+            "x": 30,
+            "z": 2,
+            "type": "furniture",
+            "texture": "furniture_urn"
+        },
+        {
+            "x": 30,
+            "z": 18,
+            "type": "pickable",
+            "texture": "pickable_first_aid_kit",
+            "name": "FIRST_AID_KIT"
+        },
+        {
+            "x": 30,
+            "z": 19,
+            "type": "pickable",
+            "texture": "pickable_first_aid_kit",
+            "name": "FIRST_AID_KIT"
+        },
+        {
+            "x": 30,
+            "z": 24,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 4
+        },
+        {
+            "x": 30,
+            "z": 27,
+            "type": "furniture",
+            "texture": "furniture_hangingCandlestick"
+        },
+        {
+            "x": 30,
+            "z": 45,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 30,
+            "z": 51,
+            "type": "player",
+            "texture": "player_1",
+            "look": "RIGHT"
+        },
+        {
+            "x": 31,
+            "z": 55,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 32,
+            "z": 3,
+            "type": "furniture",
+            "texture": "furniture_chairsTable"
+        },
+        {
+            "x": 32,
+            "z": 16,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "RIGHT"
+        },
+        {
+            "x": 32,
+            "z": 51,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "alive": false
+        },
+        {
+            "x": 33,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 34,
+            "z": 3,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN"
+        },
+        {
+            "x": 35,
+            "z": 3,
+            "type": "furniture",
+            "texture": "furniture_chairsTable"
+        },
+        {
+            "x": 35,
+            "z": 5,
+            "type": "furniture",
+            "texture": "furniture_hangingCandlestick"
+        },
+        {
+            "x": 35,
+            "z": 11,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 3
+        },
+        {
+            "x": 35,
+            "z": 12,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 16,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 20,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 27,
+            "type": "furniture",
+            "texture": "furniture_hangingCandlestick"
+        },
+        {
+            "x": 35,
+            "z": 34,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 38,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 39,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 4
+        },
+        {
+            "x": 35,
+            "z": 42,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 46,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 51,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 55,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 35,
+            "z": 56,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 37,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 38,
+            "z": 3,
+            "type": "furniture",
+            "texture": "furniture_chairsTable"
+        },
+        {
+            "x": 38,
+            "z": 16,
+            "type": "furniture",
+            "texture": "furniture_guardArmor"
+        },
+        {
+            "x": 38,
+            "z": 51,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 39,
+            "z": 46,
+            "type": "furniture",
+            "texture": "furniture_lyingSkeleton"
+        },
+        {
+            "x": 39,
+            "z": 55,
+            "type": "furniture",
+            "texture": "furniture_hangingLamp"
+        },
+        {
+            "x": 40,
+            "z": 2,
+            "type": "furniture",
+            "texture": "furniture_urn"
+        },
+        {
+            "x": 40,
+            "z": 5,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "difficulty": 3
+        },
+        {
+            "x": 40,
+            "z": 27,
+            "type": "furniture",
+            "texture": "furniture_hangingCandlestick"
+        },
+        {
+            "x": 40,
+            "z": 55,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT",
+            "difficulty": 3
+        },
+        {
+            "x": 41,
+            "z": 51,
+            "type": "furniture",
+            "texture": "furniture_skullsPile"
+        },
+        {
+            "x": 41,
+            "z": 55,
+            "type": "pickable",
+            "texture": "pickable_clip",
+            "name": "CLIP"
+        },
+        {
+            "x": 42,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 42,
+            "z": 6,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 42,
+            "z": 24,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 42,
+            "z": 30,
+            "type": "furniture",
+            "texture": "furniture_witheredPotTree"
+        },
+        {
+            "x": 43,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 43,
+            "z": 5,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT",
+            "difficulty": 4
+        },
+        {
+            "x": 43,
+            "z": 6,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 44,
+            "z": 4,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 44,
+            "z": 5,
+            "type": "pickable",
+            "texture": "pickable_cross",
+            "name": "CROSS"
+        },
+        {
+            "x": 44,
+            "z": 6,
+            "type": "pickable",
+            "texture": "pickable_chalice",
+            "name": "CHALICE"
+        },
+        {
+            "x": 45,
+            "z": 28,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 53,
+                "z": 28
+            },
+            "difficulty": 4
+        },
+        {
+            "x": 49,
+            "z": 35,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 4
+        },
+        {
+            "x": 49,
+            "z": 39,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "UP",
+            "difficulty": 1
+        },
+        {
+            "x": 55,
+            "z": 23,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 55,
+            "z": 31,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 55,
+                "z": 24
+            },
+            "difficulty": 3
+        },
+        {
+            "x": 55,
+            "z": 39,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 53,
+                "z": 37
+            },
+            "difficulty": 4
+        },
+        {
+            "x": 57,
+            "z": 29,
+            "type": "furniture",
+            "texture": "furniture_table"
+        },
+        {
+            "x": 57,
+            "z": 32,
+            "type": "furniture",
+            "texture": "furniture_fullWell"
+        },
+        {
+            "x": 57,
+            "z": 37,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 52,
+                "z": 37
+            },
+            "difficulty": 3
+        },
+        {
+            "x": 58,
+            "z": 29,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 59,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_stain"
+        },
+        {
+            "x": 59,
+            "z": 36,
+            "type": "pickable",
+            "texture": "pickable_dog_food",
+            "name": "DOG_FOOD"
+        },
+        {
+            "x": 60,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_barrel"
+        },
+        {
+            "x": 60,
+            "z": 25,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT"
+        },
+        {
+            "x": 60,
+            "z": 29,
+            "type": "furniture",
+            "texture": "furniture_table"
+        },
+        {
+            "x": 60,
+            "z": 32,
+            "type": "furniture",
+            "texture": "furniture_emptyWell"
+        },
+        {
+            "x": 60,
+            "z": 38,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "DOWN",
+            "goTo": {
+                "x": 52,
+                "z": 38
+            }
+        },
+        {
+            "x": 60,
+            "z": 39,
+            "type": "furniture",
+            "texture": "furniture_pot"
+        },
+        {
+            "x": 61,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_barrel"
+        },
+        {
+            "x": 61,
+            "z": 31,
+            "type": "pickable",
+            "texture": "pickable_chicken_meal",
+            "name": "CHICKEN_MEAL"
+        },
+        {
+            "x": 62,
+            "z": 23,
+            "type": "furniture",
+            "texture": "furniture_barrel"
+        },
+        {
+            "x": 62,
+            "z": 24,
+            "type": "furniture",
+            "texture": "furniture_barrel"
+        },
+        {
+            "x": 62,
+            "z": 29,
+            "type": "enemy",
+            "texture": "enemy_stand_1",
+            "look": "LEFT",
+            "difficulty": 4
+        }
+    ]
+}

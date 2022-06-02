@@ -1,0 +1,225 @@
+{
+    "sizeX": 13,
+    "sizeY": 13,
+    "objectData": [
+        {
+            "x": 1,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 2,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 3,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 5,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 6,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 8,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 9,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 11,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 12,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 13,
+            "z": 9,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 10,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 11,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 12,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 7,
+            "z": 13,
+            "type": "wall",
+            "texture": "wall_stone_1"
+        },
+        {
+            "x": 4,
+            "z": 9,
+            "type": "door",
+            "texture": "door_side_1"
+        },
+        {
+            "x": 10,
+            "z": 9,
+            "type": "door",
+            "texture": "door_side_1"
+        },
+        {
+            "x": 4,
+            "z": 3,
+            "type": "enemy",
+            "look": "UP",
+            "texture": "enemy_stand_1"
+        },
+        {
+            "x": 1,
+            "z": 1,
+            "type": "pickable",
+            "name": "CLIP",
+            "texture": "pickable_clip"
+        },
+        {
+            "x": 2,
+            "z": 1,
+            "type": "pickable",
+            "name": "DOG_FOOD",
+            "texture": "pickable_dog_food"
+        },
+        {
+            "x": 3,
+            "z": 1,
+            "type": "pickable",
+            "name": "BLOOD",
+            "texture": "pickable_blood"
+        },
+        {
+            "x": 4,
+            "z": 1,
+            "type": "pickable",
+            "name": "CROSS",
+            "texture": "pickable_cross"
+        },
+        {
+            "x": 5,
+            "z": 1,
+            "type": "pickable",
+            "name": "CHALICE",
+            "texture": "pickable_chalice"
+        },
+        {
+            "x": 6,
+            "z": 1,
+            "type": "pickable",
+            "name": "CHEST",
+            "texture": "pickable_chest"
+        },
+        {
+            "x": 7,
+            "z": 1,
+            "type": "pickable",
+            "name": "CROWN",
+            "texture": "pickable_crown"
+        },
+        {
+            "x": 8,
+            "z": 1,
+            "type": "pickable",
+            "name": "CHICKEN_MEAL",
+            "texture": "pickable_chicken_meal"
+        },
+        {
+            "x": 9,
+            "z": 1,
+            "type": "pickable",
+            "name": "EXTRA_LIFE",
+            "texture": "pickable_extra_life"
+        },
+        {
+            "x": 10,
+            "z": 1,
+            "type": "pickable",
+            "name": "BLOODY_SKELETON",
+            "texture": "pickable_bloody_skeleton"
+        },
+        {
+            "x": 11,
+            "z": 1,
+            "type": "pickable",
+            "name": "KEY_SILVER",
+            "texture": "pickable_key_silver"
+        },
+        {
+            "x": 12,
+            "z": 1,
+            "type": "pickable",
+            "name": "KEY_GOLD",
+            "texture": "pickable_key_gold"
+        },
+        {
+            "x": 13,
+            "z": 1,
+            "type": "pickable",
+            "name": "FIRST_AID_KIT",
+            "texture": "pickable_first_aid_kit"
+        },
+        {
+            "x": 1,
+            "z": 2,
+            "type": "pickable",
+            "name": "MACHINEGUN",
+            "texture": "pickable_machinegun"
+        },
+        {
+            "x": 13,
+            "z": 2,
+            "type": "pickable",
+            "name": "CHAINGUN",
+            "texture": "pickable_chaingun"
+        },
+        {
+            "x": 7,
+            "z": 7,
+            "type": "player"
+        }
+    ]
+}
