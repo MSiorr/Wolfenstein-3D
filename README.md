@@ -9,7 +9,7 @@ Copy of Wolfenstein 3D game
 - The whole project is written from nothing
 - This copy does not have everything the original has
 - Only the first level is available
-- You can meet two enemies (Trooper, Dog)
+- You can meet two types of enemy (Trooper, Dog)
 
 ## Installation
 
@@ -29,12 +29,13 @@ Copy of Wolfenstein 3D game
 - Pickups
 - Collisions
 - 4 different weapons to use
+- Secret rooms
 - Life/ammunition
 - AI logic (shooting, pathfinding, walking, door opening)
-- Simple level editor (you need to change file manually)
 - Difficulty levels
-- Enemy can hear your shots, or spot you
+- Enemy can hear your shots or he spot you
 - End score
+- Simple level editor (you need to change file manually)
 
 
 ## Controls
@@ -47,3 +48,15 @@ Copy of Wolfenstein 3D game
 - WASD - movement
 - Space - shot
 - E - interaction
+
+## TODO
+- [ ] More types of enemy
+- [ ] More levels
+- [ ] Add Boss
+
+## Credits
+
+- [Wall textures](https://www.textures-resource.com/pc_computer/wolf3d/texture/1375/)
+- [Other textures](https://www.spriters-resource.com/pc_computer/wolfenstein3d/)
+- [Audio source](https://www.sounds-resource.com/pc_computer/wolfenstein3d/sound/1443/)
+- [Base game information](http://www.wolfenstein3d.co.uk)
