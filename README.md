@@ -50,6 +50,6 @@ Copy of Wolfenstein 3D game
 - E - interaction
 
 ## TODO
-- [] More types of enemy
-- [] More levels
-- [] Add Boss
+- [ ] More types of enemy
+- [ ] More levels
+- [ ] Add Boss
