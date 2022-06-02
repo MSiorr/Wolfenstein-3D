@@ -29,6 +29,7 @@ Copy of Wolfenstein 3D game
 - Pickups
 - Collisions
 - 4 different weapons to use
+- Secret rooms
 - Life/ammunition
 - AI logic (shooting, pathfinding, walking, door opening)
 - Difficulty levels
@@ -47,3 +48,8 @@ Copy of Wolfenstein 3D game
 - WASD - movement
 - Space - shot
 - E - interaction
+
+## TODO
+- [] More types of enemy
+- [] More levels
+- [] Add Boss
