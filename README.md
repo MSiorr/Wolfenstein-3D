@@ -31,10 +31,10 @@ Copy of Wolfenstein 3D game
 - 4 different weapons to use
 - Life/ammunition
 - AI logic (shooting, pathfinding, walking, door opening)
-- Simple level editor (you need to change file manually)
 - Difficulty levels
-- Enemy can hear your shots, or spot you
+- Enemy can hear your shots or he spot you
 - End score
+- Simple level editor (you need to change file manually)
 
 
 ## Controls
