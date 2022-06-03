@@ -1,7 +1,7 @@
 # Wolfenstein-3D
 Copy of Wolfenstein 3D game
 
-![look](img/look.png)
+![obraz](https://user-images.githubusercontent.com/49323088/171882560-050e4dcf-9ce2-4390-8dc8-24126ce0154c.png)
 
 ### Test it now 
 **👉 https://msiorr.github.io/Projects/Wolfenstein-3D/ 👈**
