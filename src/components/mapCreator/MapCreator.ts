@@ -86,9 +86,9 @@ export default class MapCreator {
 
     let topMenu = document.createElement("div"); topMenu.id = "topMenu"; menu.appendChild(topMenu);
 
-    let el = document.createElement('div'); el.innerHTML = 'CREATE'; el.classList.add('menuElement'); topMenu.appendChild(el);
-    el.style.backgroundColor = '#455A64'; el.style.color = '#FF5252';
-    el.onclick = () => { this.createNewGameMap() }
+    // let el = document.createElement('div'); el.innerHTML = 'CREATE'; el.classList.add('menuElement'); topMenu.appendChild(el);
+    // el.style.backgroundColor = '#455A64'; el.style.color = '#FF5252';
+    // el.onclick = () => { this.createNewGameMap() }
 
     let el2 = document.createElement('div'); el2.innerHTML = 'TO JSON'; el2.classList.add('menuElement'); topMenu.appendChild(el2);
     el2.style.backgroundColor = '#455A64'; el2.style.color = '#FF5252';
@@ -474,19 +474,22 @@ export default class MapCreator {
     let closeBtn = document.createElement('div'); closeBtn.id = 'additionalMenuClose'; closeBtn.innerHTML = "X"; menuTitle.appendChild(closeBtn);
     let menuContext = document.createElement('div'); menuContext.id = 'additionalMenuContext'; additionalMenu.appendChild(menuContext);
     if (field.data.type != 'wall') {
-      let direction = document.createElement('select'); direction.id = 'enemyDirection'; menuContext.appendChild(direction);
+      let directionLabel = document.createElement('label'); directionLabel.classList.add('enemyMenuCreatorLabel'); directionLabel.innerText = "Direction:"; menuContext.appendChild(directionLabel);
+      let direction = document.createElement('select'); direction.id = 'enemyDirection'; directionLabel.appendChild(direction);
       ['UP', "LEFT", "DOWN", "RIGHT"].forEach(e => {
         let option = document.createElement('option'); option.value = e; option.innerHTML = e; field.data.look == e ? option.selected = true : null; direction.appendChild(option);
       })
       direction.onchange = () => { this.changeDirection(field, direction.value) }
     }
     if (field.data.type == 'enemy') {
-      let alive = document.createElement('select'); alive.id = "enemyAlive"; menuContext.appendChild(alive);
+      let aliveLabel = document.createElement('label'); aliveLabel.classList.add('enemyMenuCreatorLabel'); aliveLabel.innerText = "Alive:"; menuContext.appendChild(aliveLabel);
+      let alive = document.createElement('select'); alive.id = "enemyAlive"; aliveLabel.appendChild(alive);
       ['TRUE', 'FALSE'].forEach(e => {
         let option = document.createElement('option'); option.value = e; option.innerHTML = e; field.alive == false && e == 'FALSE' ? option.selected = true : null; alive.appendChild(option)
       })
       alive.onchange = () => { this.changeAliveStatus(field, alive.value == "TRUE") }
-      let difficulty = document.createElement('select'); difficulty.id = 'enemySpawnDiff'; menuContext.appendChild(difficulty);
+      let difficultyLabel = document.createElement('label'); difficultyLabel.classList.add('enemyMenuCreatorLabel'); difficultyLabel.innerText = "On difficulty:"; menuContext.appendChild(difficultyLabel);
+      let difficulty = document.createElement('select'); difficulty.id = 'enemySpawnDiff'; difficultyLabel.appendChild(difficulty);
       [1, 2, 3, 4].forEach(e => {
         let option = document.createElement('option'); option.value = e.toString(); option.innerHTML = e.toString(); field.difficulty && e == field.difficulty ? option.selected = true : null; difficulty.appendChild(option);
       })
