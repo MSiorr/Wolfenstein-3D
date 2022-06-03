@@ -54,6 +54,11 @@ Copy of Wolfenstein 3D game
 
 ## Controls
 
+### Map Creator:
+- LMB - Choose item
+- Ctrl + LMB (on `Player/Enemy/Wall`) - open special menu
+- RMB - Delete item
+
 ### Menu:
 - Space - Confirm/next
 - Arrow up/down - navigating the menu
