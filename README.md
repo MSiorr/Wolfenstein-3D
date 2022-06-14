@@ -24,7 +24,7 @@ Copy of Wolfenstein 3D game
 
 ## Features
 
-- Own custom display engine written in WebGL
+- Own custom rendering engine written in WebGL
 - Level possible to complete
 - Animations
 - Audio
